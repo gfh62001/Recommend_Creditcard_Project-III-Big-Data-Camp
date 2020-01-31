@@ -1,6 +1,6 @@
 # Recommend_Creditcard_Project at III Big Data Camp
 Python project in III include:
-1. No card recommenddation
+1. No card recommenddation  
 1-1. Crawl Youtube text information and insert into mongoDB  
 1-2. Jeiba word segment  
 1-3. Calculate card behavior score  
