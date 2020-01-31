@@ -8,6 +8,8 @@ Python project in III include:
 3-1. Recommend credit card with Content-based altorithm  
 3-2. Recommend credit card with collaborative filtering-user_based altorithm  
 3-3. Recommend credit card with collaborative filtering-item_based altorithm  
+3-4. Recommend credit card with SVD altorith
+4. Evaluate 3 recommend algorithms by metrics TopN precision
 4. Item_based recommend algorithm apply to Spark  
 5. GPS data integrate with credit card  
 5-1. Calculate speed and find user stay point  
