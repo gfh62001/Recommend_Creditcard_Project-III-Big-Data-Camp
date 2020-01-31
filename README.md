@@ -1,6 +1,8 @@
 # Recommend_Creditcard_Project at III Big Data Camp
 Python work in III include:
+'''
 1.Crawl Youtube
+'''
 2.ETL-credit card article
   2.1 Jeiba word segment
   2.2 Calculate card behavior score
