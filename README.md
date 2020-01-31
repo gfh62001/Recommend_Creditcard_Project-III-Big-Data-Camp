@@ -5,13 +5,13 @@ Python project in III include:
 1-2. Jeiba word segment  
 1-3. Calculate card behavior score  
 1-4. Recommend algorithm credit card with Content-based altorithm(Score consuming behavior)  
-3. Having card recommendation 
-3-1. Recommend credit card with collaborative filtering-user_based altorithm(having card recommend)  
-3-2. Recommend credit card with collaborative filtering-item_based altorithm  
-3-3. Recommend credit card with SVD altorith
-3-4. Evaluate 3 recommend algorithms by metrics TopN precision
-3-5. Item_based recommend algorithm apply to Spark  
-4. User GPS data integrate with credit card  
-4-1. Calculate speed and find user stay point  
-4-2. Calculate user consuming tendency by tracking  
-5. Nearby credit card discount store information  
+2. Having card recommendation 
+2-1. Recommend credit card with collaborative filtering-user_based altorithm(having card recommend)  
+2-2. Recommend credit card with collaborative filtering-item_based altorithm  
+2-3. Recommend credit card with SVD altorith
+2-4. Evaluate 3 recommend algorithms by metrics TopN precision
+2-5. Item_based recommend algorithm apply to Spark  
+3. User GPS data integrate with credit card  
+3-1. Calculate speed and find user stay point  
+3-2. Calculate user consuming tendency by tracking  
+4. Nearby credit card discount store information  
