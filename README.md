@@ -13,6 +13,7 @@ Python project in III include:
 2-4. Evaluate 3 recommend algorithms by metrics TopN precision  
 2-5. Item_based recommend algorithm apply to Spark  
 3. User GPS data integrate with credit card  
-3-1. Calculate speed and find user stay point  
-3-2. Calculate user consuming tendency by tracking  
+3.1 Transform GPS gpx data into dataframe  
+3-2. Calculate speed and find user stay point  
+3-3. Calculate user consuming tendency by tracking  
 4. Nearby credit card discount store information  
