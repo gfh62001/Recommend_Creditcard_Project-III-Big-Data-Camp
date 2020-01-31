@@ -5,6 +5,7 @@ Python project in III include:
 1-2. Jeiba word segment  
 1-3. Calculate card behavior score  
 1-4. Recommend algorithm credit card with Content-based altorithm(Score consuming behavior)  
+1-5. Card recommendation algorithm apply to Spark  
 2. Having card recommendation  
 2-1. Recommend credit card with collaborative filtering-user_based altorithm(having card recommend)  
 2-2. Recommend credit card with collaborative filtering-item_based altorithm  
