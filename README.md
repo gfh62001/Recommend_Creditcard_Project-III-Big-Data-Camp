@@ -8,8 +8,8 @@ Python project in III include:
 3-1. Recommend credit card with Content-based altorithm  
 3-2. Recommend credit card with collaborative filtering-user_based altorithm  
 3-3. Recommend credit card with collaborative filtering-item_based altorithm  
-4.Item_based recommend algorithm apply to Spark  
-5.GPS data integrate with credit card  
+4. Item_based recommend algorithm apply to Spark  
+5. GPS data integrate with credit card  
 5-1. Calculate speed and find user stay point  
 5-2. Calculate user consuming tendency by tracking  
 6. Nearby credit card discount store information  
