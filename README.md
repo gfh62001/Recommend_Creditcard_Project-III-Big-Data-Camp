@@ -2,8 +2,8 @@
 Python project in III include:
 1. Crawl Youtube  
 2. ETL-credit card article  
->>> 2.1 Jeiba word segment  
->>> 2.2 Calculate card behavior score  
+2-1.Jeiba word segment  
+2-2. Calculate card behavior score  
 >3.Recommend algorithm  
 >>> 3.1 Recommend credit card with Content-based altorithm  
 >>> 3.2 Recommend credit card with collaborative filtering-user_based altorithm  
